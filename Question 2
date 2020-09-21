@@ -1,0 +1,8 @@
+student1,student2,student3= 80.0,90.0,66.5
+average= (student1+student2+student3)/3
+msg="Average"
+print("Student Scores:")
+print(student1)
+print(student2)
+print(student3)
+print(msg,average)
