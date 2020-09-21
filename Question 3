@@ -1,0 +1,12 @@
+class1,class2,class3= 32,45,51
+Class1,Class2,Class3= class1//5,class2//7,class3//6
+class_1,class_2,class_3= class1%5,class2%7,class3%6
+msg1,msg2,msg3= "class 1:","class 2:","class 3:"
+print("Number of students in each group:")
+print(msg1,Class1)
+print(msg2,Class2)
+print(msg3,Class3)
+print("Number of students leftover:")
+print(msg1,class_1)
+print(msg2,class_2)
+print(msg3,class_3)
