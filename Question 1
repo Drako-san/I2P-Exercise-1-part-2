@@ -1,0 +1,5 @@
+degree=150
+radian= degree*3.14/180
+msg1,msg2="Degree:","Radian"
+print(msg1,degree)
+print(msg2,radian)
