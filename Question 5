@@ -1,0 +1,7 @@
+v=343
+f=256
+w= v/f
+msg1,msg2,msg3="The speed","The frequency","The wavelength"
+print:(msg1,v)
+print:(msg2,f)
+print:(msg3,w)
